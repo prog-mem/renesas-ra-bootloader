@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "progmem_boot.h": "c",
+        "progmem_jump.h": "c",
+        "progmem_dev.h": "c",
+        "progmem_ihex.h": "c",
+        "progmem_r7fa4e1.h": "c",
+        "progmem_bin.h": "c",
+        "progmem_r7fa6m2.h": "c",
+        "progmem_load.h": "c",
+        "progmem_srec.h": "c"
+    }
+}
